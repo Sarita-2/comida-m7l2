@@ -10,6 +10,7 @@ Se utiliza una funcion para tener la red neuronal y que valide la subida de la i
 En la ultima funcion es para que arroje una respuesta dependiendo a que grupo pertenece la imagen subida dependiendo de su index.
 
 Librerias:
-tensorflow==2.12.0 keras==2.12.0
-discord
+1. tensorflow==2.12.0 keras==2.12.0
+   
+2. discord
 
